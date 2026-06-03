@@ -1,34 +1,33 @@
-# Customer Churn Prediction
+# Predikce odlivu zákazníků (Customer Churn Prediction)
 
-Machine learning project focused on predicting customer churn in a digital subscription (video-streaming) service.
+Projekt strojového učení zaměřený na predikci odchodu zákazníků ve službě digitálního streamingu.
 
-## Project Goal
-The goal of this project is to train, compare, and evaluate several machine learning classification models to identify customers with a higher risk of churn.
+## Cíl projektu
+Cílem projektu je natrénovat, porovnat a vyhodnotit vybrané klasifikační modely strojového učení pro identifikaci zákazníků s vyšší pravděpodobností odchodu ze služby.
 
 ## Dataset
-The project uses a synthetic dataset (Netflix Customer Churn) simulating user behavior on a streaming platform.
+Projekt pracuje se syntetickým datasetem (Netflix Customer Churn), který simuluje chování uživatelů streamovací platformy.
 
-## Data Processing
-- Data cleaning and preprocessing  
-- Handling missing values  
-- Feature engineering and transformation  
-- Addressing class imbalance  
+## Předzpracování dat
+- čištění a příprava dat  
+- práce s chybějícími hodnotami  
+- úprava a transformace vstupních proměnných  
+- řešení nevyváženosti tříd  
 
-## Models
-The following classification models were used:
-- Logistic Regression  
-- Decision Tree  
-- Random Forest  
+## Použité modely
+- logistická regrese  
+- rozhodovací strom  
+- náhodný les  
 - Gradient Boosting  
 
-## Evaluation
-Models were compared using standard binary classification metrics.
+## Vyhodnocení
+Modely byly porovnány pomocí standardních metrik pro binární klasifikaci.
 
-## Results
-Ensemble methods outperformed simpler linear models. Gradient Boosting achieved the best overall performance in terms of stability and predictive power.
+## Výsledky
+Ensemble metody dosáhly lepších výsledků než jednodušší lineární modely. Nejlepší výkon vykázal model Gradient Boosting, který kombinoval vysokou přesnost a stabilitu.
 
-## Note
-The results should be interpreted with caution due to the synthetic nature of the dataset.
+## Poznámka
+Výsledky je nutné interpretovat s ohledem na syntetický charakter datasetu.
 
-## Author
+## Autor
 Václav Vyhnálek
