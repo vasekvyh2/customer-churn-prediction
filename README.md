@@ -9,7 +9,7 @@ Cílem projektu je natrénovat, porovnat a vyhodnotit vybrané klasifikační mo
 Projekt pracuje se syntetickým datasetem (Netflix Customer Churn), který simuluje chování uživatelů streamovací platformy.
 
 Dataset je dostupný zde:
-https://www.kaggle.com/XXXX
+https://www.kaggle.com/datasets/abdulwadood11220/netflix-customer-churn-dataset
 
 
 ## Předzpracování dat
